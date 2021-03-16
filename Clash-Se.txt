@@ -13,7 +13,7 @@ proxies:
     password: 6bd4d287-e7fa-419b-8ebe-0d6b48b9850c
     tls: true
     skip-cert-verify: true
-  - name: 电报频道t.me/jmkji🇭🇰香港铜锣湾   
+  - name: 电报频道[@jmkji]🇭🇰香港铜锣湾   
     server: a1.er3.xyz
     port: 29980
     type: http
@@ -21,7 +21,7 @@ proxies:
     password: 6bd4d287-e7fa-419b-8ebe-0d6b48b9850c
     tls: true
     skip-cert-verify: true
-  - name: 电报频道t.me/jmkji🇸🇬新加坡 
+  - name: 电报频道[@jmkji]🇸🇬新加坡 
     server: tx.wy.fastqvpn.com
     port: 29980
     type: http
@@ -29,7 +29,7 @@ proxies:
     password: 6bd4d287-e7fa-419b-8ebe-0d6b48b9850c
     tls: true 
     skip-cert-verify: true 
-  - name: 电报频道t.me/jmkji🇯🇵东京银座   
+  - name: 电报频道[@jmkji]🇯🇵东京银座   
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
@@ -37,35 +37,35 @@ proxies:
     password: 6bd4d287-e7fa-419b-8ebe-0d6b48b9850c
     tls: true
     skip-cert-verify: true
-  - name: 电报频道t.me/jmkji🇸🇬新加坡圣淘沙   
+  - name: 电报频道[@jmkji]🇸🇬新加坡圣淘沙   
     server: a2.ap.fastqvpn.com
     port: 29980
     type: http
     username: "423435625924919296"
     password: 6bd4d287-e7fa-419b-8ebe-0d6b48b9850c
     tls: true
-  - name: 电报频道t.me/jmkji🇸🇬新加坡滨海湾   
+  - name: 电报频道[@jmkji]🇸🇬新加坡滨海湾   
     server: a3.ap.fastqvpn.com
     port: 29980
     type: http
     username: "423435625924919296"
     password: 6bd4d287-e7fa-419b-8ebe-0d6b48b9850c
     tls: true
-  - name: 电报频道t.me/jmkji🇸🇬新加坡金沙湾   
+  - name: 电报频道[@jmkji]🇸🇬新加坡金沙湾   
     server: a4.ap.fastqvpn.com
     port: 29980
     type: http
     username: "423435625924919296"
     password: 6bd4d287-e7fa-419b-8ebe-0d6b48b9850c
     tls: true
-  - name: 电报频道t.me/jmkji🇸🇬新加坡金沙湾2   
+  - name: 电报频道[@jmkji]🇸🇬新加坡金沙湾2   
     server: a5.ap.fastqvpn.com
     port: 29980
     type: http
     username: "423435625924919296"
     password: 6bd4d287-e7fa-419b-8ebe-0d6b48b9850c
     tls: true
-  - name: 电报频道t.me/jmkji🇯🇵日本大阪   
+  - name: 电报频道[@jmkji]🇯🇵日本大阪   
     server: ap1-jp.er3.xyz
     port: 29985
     type: http
@@ -73,7 +73,7 @@ proxies:
     password: 6bd4d287-e7fa-419b-8ebe-0d6b48b9850c
     tls: true
     skip-cert-verify: true
-  - name: 电报频道t.me/jmkji🇺🇸美国曼哈顿
+  - name: 电报频道[@jmkji]🇺🇸美国曼哈顿
     server: ap1-us.er3.xyz
     port: 29988
     type: http
@@ -81,7 +81,7 @@ proxies:
     password: 6bd4d287-e7fa-419b-8ebe-0d6b48b9850c
     tls: true
     skip-cert-verify: true
-  - name: 电报频道t.me/jmkji🇬🇧英国牛津
+  - name: 电报频道[@jmkji]🇬🇧英国牛津
     server: ap1-uk.er3.xyz
     port: 29987
     type: http
@@ -90,7 +90,7 @@ proxies:
     tls: true
     skip-cert-verify: true
     
-  - name: 电报频道t.me/jmkji🇩🇪德国柏林
+  - name: 电报频道[@jmkji]🇩🇪德国柏林
     server: ap1-ge.er3.xyz
     port: 29984
     type: http
@@ -98,7 +98,7 @@ proxies:
     password: 6bd4d287-e7fa-419b-8ebe-0d6b48b9850c
     tls: true
     skip-cert-verify: true
-  - name: 电报频道t.me/jmkji🇨🇦加拿大多伦多   
+  - name: 电报频道[@jmkji]🇨🇦加拿大多伦多   
     server: ap1-ca.er3.xyz
     port: 29983
     type: http
@@ -107,7 +107,7 @@ proxies:
     tls: true
     skip-cert-verify: true
     
-  - name: 电报频道t.me/jmkji🇦🇺澳大利亚悉尼    
+  - name: 电报频道[@jmkji]🇦🇺澳大利亚悉尼    
     server: ap1-au.er3.xyz
     port: 29982
     type: http
@@ -119,40 +119,40 @@ proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
-      - 电报频道t.me/jmkji🇸🇬新加坡新达城
-      - 电报频道t.me/jmkji🇭🇰香港铜锣湾
-      - 电报频道t.me/jmkji🇸🇬新加坡
-      - 电报频道t.me/jmkji🇯🇵东京银座
-      - 电报频道t.me/jmkji🇸🇬新加坡圣淘沙
-      - 电报频道t.me/jmkji🇸🇬新加坡滨海湾
-      - 电报频道t.me/jmkji🇸🇬新加坡金沙湾
-      - 电报频道t.me/jmkji🇸🇬新加坡金沙湾2
-      - 电报频道t.me/jmkji🇯🇵日本大阪
-      - 电报频道t.me/jmkji🇺🇸美国曼哈顿
-      - 电报频道t.me/jmkji🇬🇧英国牛津
-      - 电报频道t.me/jmkji🇩🇪德国柏林
-      - 电报频道t.me/jmkji🇨🇦加拿大多伦多
-      - 电报频道t.me/jmkji🇦🇺澳大利亚悉尼 
+      - 电报频道[@jmkji]🇸🇬新加坡新达城
+      - 电报频道[@jmkji]🇭🇰香港铜锣湾
+      - 电报频道[@jmkji]🇸🇬新加坡
+      - 电报频道[@jmkji]🇯🇵东京银座
+      - 电报频道[@jmkji]🇸🇬新加坡圣淘沙
+      - 电报频道[@jmkji]🇸🇬新加坡滨海湾
+      - 电报频道[@jmkji]🇸🇬新加坡金沙湾
+      - 电报频道[@jmkji]🇸🇬新加坡金沙湾2
+      - 电报频道[@jmkji]🇯🇵日本大阪
+      - 电报频道[@jmkji]🇺🇸美国曼哈顿
+      - 电报频道[@jmkji]🇬🇧英国牛津
+      - 电报频道[@jmkji]🇩🇪德国柏林
+      - 电报频道[@jmkji]🇨🇦加拿大多伦多
+      - 电报频道[@jmkji]🇦🇺澳大利亚悉尼 
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 电报频道t.me/jmkji🇸🇬新加坡新达城
-      - 电报频道t.me/jmkji🇭🇰香港铜锣湾
-      - 电报频道t.me/jmkji🇸🇬新加坡
-      - 电报频道t.me/jmkji🇯🇵东京银座
-      - 电报频道t.me/jmkji🇸🇬新加坡圣淘沙
-      - 电报频道t.me/jmkji🇸🇬新加坡滨海湾
-      - 电报频道t.me/jmkji🇸🇬新加坡金沙湾
-      - 电报频道t.me/jmkji🇸🇬新加坡金沙湾2
-      - 电报频道t.me/jmkji🇯🇵日本大阪
-      - 电报频道t.me/jmkji🇺🇸美国曼哈顿
-      - 电报频道t.me/jmkji🇬🇧英国牛津
-      - 电报频道t.me/jmkji🇩🇪德国柏林
-      - 电报频道t.me/jmkji🇨🇦加拿大多伦多
-      - 电报频道t.me/jmkji🇦🇺澳大利亚悉尼
+      - 电报频道[@jmkji]🇸🇬新加坡新达城
+      - 电报频道[@jmkji]🇭🇰香港铜锣湾
+      - 电报频道[@jmkji]🇸🇬新加坡
+      - 电报频道[@jmkji]🇯🇵东京银座
+      - 电报频道[@jmkji]🇸🇬新加坡圣淘沙
+      - 电报频道[@jmkji]🇸🇬新加坡滨海湾
+      - 电报频道[@jmkji]🇸🇬新加坡金沙湾
+      - 电报频道[@jmkji]🇸🇬新加坡金沙湾2
+      - 电报频道[@jmkji]🇯🇵日本大阪
+      - 电报频道[@jmkji]🇺🇸美国曼哈顿
+      - 电报频道[@jmkji]🇬🇧英国牛津
+      - 电报频道[@jmkji]🇩🇪德国柏林
+      - 电报频道[@jmkji]🇨🇦加拿大多伦多
+      - 电报频道[@jmkji]🇦🇺澳大利亚悉尼
   - name: 🌍 国外媒体
     type: select
     proxies:
