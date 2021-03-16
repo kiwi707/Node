@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - name: 电报频道t.me/jmkji🇸🇬新加坡新达城
+  - name: 电报频道[@jmkji]🇸🇬新加坡新达城
     server: ap1-sg.er3.xyz
     port: 29986
     type: http
